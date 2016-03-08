@@ -66,6 +66,10 @@ header {
 	top: 0;
 }
 
+.navbar-header {
+	float: right;
+}
+
 @supports (position: sticky) {
 	body {
 		padding-top: 0;
@@ -137,11 +141,12 @@ header {
 
 	font-family: "didot", serif;
 	font-size: 0;
+	float: left;
 	text-align: left;
 	opacity: 0;
 	padding-left: 5%;
-	margin-bottom: 20px;
 	transition: 0.5s ease;
+	padding-top: 15px;
 }
 
 .navbar .logo img {

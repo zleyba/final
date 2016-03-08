@@ -47,57 +47,30 @@
 
 					<div class="title"><h1> ZA.LEYBA </h1></div>
 
-					<div class="container-fluid navbg">
-						<div class="row">
-							<div class="col-xs-2">
-								<div class="ptitle">
-									ZA.LEYBA
-								</div>
-							</div>
+					<div class="navbar-header">
 
-							<div class="col-xs-10">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
 
-								<!-- Brand and toggle get grouped for better mobile display -->
-								<div class="navbar-header">
-									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-										<span class="sr-only">Toggle navigation</span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-									</button>
-
-								</div>
-								</div>
-
-								<div class="collapse navbar-collapse" id="navbar-collapse-1">
+					</div>
+					<div class="ptitle">ZA.LEYBA</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse navbg" id="navbar-collapse-1">
+						<ul class="nav">
+							<li class="item"><a href="#">Link</a></li>
+							<li class="item"><a href="#">Link</a></li>
+							<li class="item"><a href="#">Link</a></li>
+							<li class="item"><a href="#">Link</a></li>
+						</ul>
 
 
-									<div class="col-sm-12 col-md-10">
-									<ul class="nav">
-										<li class="item">
-											<a href="#">Home</a>
-										</li>
-
-										<li class="item">
-											<a href="#">Blog</a>
-										</li>
-
-										<li class="item">
-											<a href="#">About</a>
-										</li>
-
-										<li class="item">
-											<a href="#">Contact</a>
-										</li>
-									</ul>
-<!--									<ul class="socnav">-->
-<!--										<li class="item"><a class="iglogo" href="https://www.instagram.com/kellehfish/"></a></li>-->
-<!--										<li class="item"><a class="tumblrlogo" href="http://kellehjelleh.tumblr.com/"></a></li>-->
-<!--									</ul>-->
-								</div>
-							</div>
-						</div> <!--close container-->
-				</nav>
+					</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+		</nav>
 			</header>
 
 			<main>
