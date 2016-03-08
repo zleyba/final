@@ -45,7 +45,7 @@
 			<header>
 				<nav class="navbar nav">
 
-					<div class="title">ZA.LEYBA</div>
+					<div class="title"><h1> ZA.LEYBA </h1></div>
 
 					<div class="container-fluid navbg">
 						<div class="row">
@@ -90,10 +90,10 @@
 											<a href="#">Contact</a>
 										</li>
 									</ul>
-										<ul class="socnav">
-											<li class="item"><a class="iglogo" href="https://www.instagram.com/kellehfish/"></a></li>
-											<li class="item"><a class="tumblrlogo" href="http://kellehjelleh.tumblr.com/"></a></li>
-										</ul>
+<!--									<ul class="socnav">-->
+<!--										<li class="item"><a class="iglogo" href="https://www.instagram.com/kellehfish/"></a></li>-->
+<!--										<li class="item"><a class="tumblrlogo" href="http://kellehjelleh.tumblr.com/"></a></li>-->
+<!--									</ul>-->
 								</div>
 							</div>
 						</div> <!--close container-->

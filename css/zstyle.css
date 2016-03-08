@@ -74,6 +74,10 @@ header {
 	top: 0;
 }
 
+.navbar-header {
+	float: right;
+}
+
 @supports (position: sticky) {
 	body {
 		padding-top: 0;
@@ -119,11 +123,19 @@ header {
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
 	background-color: #8fe0cd;
+
+}
+
+.navbar .title h1 {
 	-webkit-transform: skewX(-15deg);
 	-moz-transform: skewX(-15deg);
 	-ms-transform: skewX(-15deg);
 	-o-transform: skewX(-15deg);
 	transform: skewX(-15deg);
+	opacity: 1;
+	font-size: 1.5em;
+	margin-top: 0;
+	width: 100%;
 }
 
 .navbar .nav .item {
@@ -284,6 +296,7 @@ span.icon-bar {
 		display: list-item;
 		background-color: rgba(255, 255, 255, 0.9);
 	}
+
 
 
 	/* controls css for outbound social media links */
