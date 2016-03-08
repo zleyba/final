@@ -29,6 +29,7 @@ main {
 
 #box-container {
 	background-color: #656565;
+	padding: 20px;
 }
 
 *{
@@ -97,7 +98,11 @@ header {
 	display: inline-block;
 	float: right;
 	margin-right: 5%;
-	background-color: transparent;
+
+}
+
+.navbar .navbg {
+	background-color: rgba(169, 169, 169, 0.8);
 }
 
 .navbar .title {
@@ -110,7 +115,7 @@ header {
 	border-bottom-color: #8fe0cd;
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
-
+	background-color: #8fe0cd;
 	-webkit-transform: skewX(-15deg);
 	-moz-transform: skewX(-15deg);
 	-ms-transform: skewX(-15deg);
@@ -132,7 +137,7 @@ header {
 
 .navbar .nav .item a {
 	text-decoration: none;
-	color: inherit;
+	color: #9ff7e6;
 }
 
 .navbar .socnav {
@@ -175,13 +180,20 @@ header {
 
 }
 
+.navbar .navbg {
+	background-color: transparent;
+}
+
 
 .scrolled.navbar .nav .item {
 	line-height: 40px;
 	transition: 0.5s ease;
 }
 
-
+.scrolled.navbar .nav .item a {
+	text-decoration: none;
+	color: #000000;
+}
 
 .scrolled.navbar .title {
 	max-height: 0;

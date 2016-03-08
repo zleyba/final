@@ -48,7 +48,7 @@
 					<div class="title">ZA.LEYBA</div>
 
 					<div class="container-fluid">
-						<div class="row">
+						<div class="row navbg">
 							<div class="col-xs-2">
 								<div class="ptitle">
 									ZA.LEYBA
@@ -180,7 +180,9 @@
 			<div class="container">
 
 
-				(c) Kelly Williams 2016
+				Zach Leyba
+				<br>
+				(C) 2016 MonoChrome CD LLC.
 			</div>
 		</footer>
 
