@@ -47,8 +47,8 @@
 
 					<div class="title">ZA.LEYBA</div>
 
-					<div class="container-fluid">
-						<div class="row navbg">
+					<div class="container-fluid navbg">
+						<div class="row">
 							<div class="col-xs-2">
 								<div class="ptitle">
 									ZA.LEYBA
@@ -67,12 +67,12 @@
 									</button>
 
 								</div>
-
+								</div>
 
 								<div class="collapse navbar-collapse" id="navbar-collapse-1">
 
 
-
+									<div class="col-sm-12 col-md-10">
 									<ul class="nav">
 										<li class="item">
 											<a href="#">Home</a>
@@ -90,10 +90,10 @@
 											<a href="#">Contact</a>
 										</li>
 									</ul>
-									<ul class="socnav">
-										<li class="item"><a class="iglogo" href="https://www.instagram.com/kellehfish/"></a></li>
-										<li class="item"><a class="tumblrlogo" href="http://kellehjelleh.tumblr.com/"></a></li>
-									</ul>
+										<ul class="socnav">
+											<li class="item"><a class="iglogo" href="https://www.instagram.com/kellehfish/"></a></li>
+											<li class="item"><a class="tumblrlogo" href="http://kellehjelleh.tumblr.com/"></a></li>
+										</ul>
 								</div>
 							</div>
 						</div> <!--close container-->
