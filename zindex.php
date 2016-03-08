@@ -35,9 +35,9 @@
 
 
 		<!--main style sheet-->
-		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/zstyle.css" />
 
-		<title>The Personal Website of Illustrator Kelly Williams</title>
+		<title>ZA.LEYBA COMMUNICATIONS</title>
 
 	</head>
 	<body class="sfooter">
@@ -45,13 +45,13 @@
 			<header>
 				<nav class="navbar nav">
 
-					<div class="title">kellehfish</div>
+					<div class="title">ZA.LEYBA</div>
 
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-xs-2">
 								<div class="ptitle">
-									kellehfish
+									ZA.LEYBA
 								</div>
 							</div>
 
